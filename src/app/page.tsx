@@ -50,8 +50,8 @@ const HomePage: React.FC<HomePageProps> = ({ profileImageSrc = "/photos/profile-
             animate={{ y: 0, opacity: 1 }}
             transition={{ duration: 0.8 }}
           >
-            Hi&#44;I&apos;m
-            
+            Hi I&apos;m&#44;
+            <br/>
               <span className="text-[#FBBF24]">{name}</span>
           </motion.h1>
 
