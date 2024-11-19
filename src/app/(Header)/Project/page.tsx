@@ -72,11 +72,11 @@ const cliProjects: Project[] = [
 
 const nextJsProjects: Project[] = [
   {
-    title: "AI Portfolio using Tailwind ",
+    title: "personal Portfolio using Tailwind ",
     description: "An interactive, animated AI developer portfolio with responsive design using Next.js.",
     techStack: ["Next.js", "TypeScript", "Tailwind CSS"],
     image: "/photos/Ai.jpg",
-    liveLink: "/ai-portfolio",
+    liveLink: "https://muhammad-owais-portfolio.vercel.app/",
     repoLink: "https://github.com/your-username/ai-portfolio",
   },
   {
