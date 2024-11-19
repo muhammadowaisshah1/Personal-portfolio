@@ -17,14 +17,7 @@ interface Project {
 
 const cliProjects: Project[] = [
   
-      {
-        title: "Number Guessing Game",
-        description: "A CLI-based number guessing game built in TypeScript, where players guess the hidden number within limited tries.",
-        techStack: ["TypeScript", "Node.js"],
-        image: "/photos/number-guessing-game.jpg",
-        npxCommand: "@muhammadowaisshah/number-guessing-game",
-        repoLink: "https://github.com/muhammadowaisshah1/CLI-number-guessing-game.git",
-      },
+      
       {
         title: "To-Do App CLI",
         description: "A to-do list application via CLI that allows users to manage list easily.",
@@ -40,6 +33,14 @@ const cliProjects: Project[] = [
         image: "/photos/atms.jpg",
         npxCommand: "@muhammadowaisshah/cli-atm-machine",
         repoLink: "https://github.com/muhammadowaisshah1/project-ATM-machine.git",
+      },
+      {  
+        title: "Number Guessing Game",
+        description: "A CLI-based number guessing game built in TypeScript, where players guess the hidden number within limited tries.",
+        techStack: ["TypeScript", "Node.js"],
+        image: "/photos/number-guessing-game.jpg",
+        npxCommand: "@muhammadowaisshah/number-guessing-game",
+        repoLink: "https://github.com/muhammadowaisshah1/CLI-number-guessing-game.git",
       },
       {
         title: "Currency Converter",
