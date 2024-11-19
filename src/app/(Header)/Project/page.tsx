@@ -77,7 +77,7 @@ const nextJsProjects: Project[] = [
     techStack: ["Next.js", "TypeScript", "Tailwind CSS"],
     image: "/photos/Ai.jpg",
     liveLink: "https://muhammad-owais-portfolio.vercel.app/",
-    repoLink: "https://github.com/your-username/ai-portfolio",
+    
   },
   {
     title: "AI Portfolio using CSS",
@@ -85,7 +85,7 @@ const nextJsProjects: Project[] = [
     techStack: ["Next.js", "TypeScript", "Custom CSS"],
     image: "/photos/digital calculator.jpg",
     liveLink: "/ai-portfolio",
-    repoLink: "https://github.com/your-username/ai-portfolio",
+    
   },
   {
     title: "Editable Resume Application",
