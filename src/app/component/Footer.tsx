@@ -12,7 +12,7 @@ const Footer = () => {
         <div className="flex flex-col sm:flex-row justify-between items-center space-y-4 sm:space-y-0">
           {/* Left Side: Name and Copyright */}
           <p className="text-xs sm:text-sm font-medium text-center sm:text-left tracking-wide">
-            &copy; 2024 Muhammad Owais - AI Agent Developer
+            &copy; 2024 Muhammad Owais - Frontend Developer
           </p>
 
           {/* Right Side: Social Media Icons */}
