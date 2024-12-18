@@ -31,7 +31,7 @@ const Header = () => {
           animate={{ opacity: 1 }}
           transition={{ duration: 0.8 }}
         >
-          AI Agent Developer
+          Frontend Developer
         </motion.h1>
 
         <motion.nav
