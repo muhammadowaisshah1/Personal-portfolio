@@ -108,7 +108,7 @@ const nextJsProjects: Project[] = [
     description: "This is Dynamic Resume Application That ",
     techStack: ["HTML", "CSS", "Typescript"],
     image: "/photos/calculator.jpg",
-    liveLink: "https://milestone2-resume-three.vercel.app/",
+    liveLink: "https://milestone-1-resume-muhammadowais1.vercel.app/",
     repoLink: "https://github.com/muhammadowaisshah1/Resume-builder-milestone2-dynamic-resume.git",
   },
   // Add more Next.js projects...
