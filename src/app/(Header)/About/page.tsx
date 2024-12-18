@@ -113,7 +113,7 @@ const AboutPage = () => {
             animate={{ scale: 1, opacity: 1 }}
             transition={{ duration: 0.8, delay: 0.3 }}
           >
-            <Link href="https://milestone5-resume-pdf.vercel.app/" passHref>
+            <Link href="https://milestone-1-resume-muhammadowais1.vercel.app/" passHref>
               <span className="text-lg bg-[#0F4B6E] text-white py-3 px-8 rounded-full hover:bg-[#E1B16F] transition duration-300 cursor-pointer">
                 View CV
               </span>
