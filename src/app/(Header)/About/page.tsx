@@ -32,7 +32,7 @@ const AboutPage = () => {
             animate={{ x: 0, opacity: 1 }}
             transition={{ duration: 0.8 }}
           >
-            Full-Stack Developer
+            Front-end Developer
           </motion.h2>
           <motion.p
             className="mt-4 text-lg"
@@ -40,7 +40,7 @@ const AboutPage = () => {
             animate={{ x: 0, opacity: 1 }}
             transition={{ duration: 0.8, delay: 0.2 }}
           >
-            I&apos;m a Enthusiastic Full-Stack Developer with expertise in HTML&#44; CSS&#44; JavaScript&#44; TypeScript&#44; Node.js&#44; Next.js&#44; and Figma. Currently&#44; I Am diving into the world of AI agent development&#44; learning to harness AI is potential to build intelligent solutions.
+            I&apos;m a Enthusiastic Front-End Developer with expertise in HTML&#44; CSS&#44; JavaScript&#44; TypeScript&#44; Node.js&#44; Next.js&#44; and Figma. Currently&#44; I Am diving into the world of AI agent development&#44; learning to harness AI is potential to build intelligent solutions.
           <br />
           <br />
            My goal is to bridge the gap between innovative AI technologies and real-world applications. I design user-friendly&#44; adaptive systems that enhance user experience and drive meaningful change across industries.I&apos;m excited to connect with like-minded individuals who share my passion for AI&#44; development&#44; and technology.
