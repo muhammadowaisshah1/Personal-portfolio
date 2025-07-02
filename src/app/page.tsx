@@ -12,7 +12,7 @@ interface HomePageProps {
   description: string; // Short description of the person
 }
 
-const HomePage: React.FC<HomePageProps> = ({ profileImageSrc = "/photos/atms.jpg", name = "Syed shouib Ali", description = "I'm Enthusiastic developer focused on creating intelligent and dynamic web applications. Currently diving into the world of AI agent development, I'm learning to build systems that drive innovation and automation." }) => {
+const HomePage: React.FC<HomePageProps> = ({ profileImageSrc = "/photos/profile-picture.jpg", name = "Muhammad Owais Shah ", description = "I'm Enthusiastic developer focused on creating intelligent and dynamic web applications. Currently diving into the world of AI agent development, I'm learning to build systems that drive innovation and automation." }) => {
   return (
     <div className="min-h-screen bg-gradient-to-r from-[#1F2937] to-[#2D3748] flex items-center justify-center py-16 px-4">
       <motion.div
